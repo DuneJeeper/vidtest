@@ -2,9 +2,10 @@
   {
     "location": "Reolink",
     "title": "Driveway",
-    "url_1080p": "rtsp://admin:Biolo43%21@192.168.86.28:554/Preview_01_main"
+    "url_1080p": "rtsp://192.168.86.28/h264Preview_01_sub/track1"
   }
 ]
+
 
 
 
