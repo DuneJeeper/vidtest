@@ -1,8 +1,9 @@
 {
   "videos": [
     {
-      "url": "rtsp://admin:password@192.168.1.50:554/stream1",
+      "url": "rtsp://admin:Biolo43!@192.168.86.28:554/Preview_01_main",
       "type": "video"
     }
   ]
+
 }
