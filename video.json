@@ -1,11 +1,10 @@
 [
-    {
-        "location": "Reolink",
-        "title": "Driveway",
-        "author": "me",
-        "url_img": "http://url-to-image.jpg",
-        "url_1080p": "rtsp://admin:Biolo43!@192.168.86.28:554/Preview_01_main",
-        "url_4k": "rtsp://admin:Biolo43!@192.168.86.28:554",
-    },
+  {
+    "location": "Reolink",
+    "title": "Driveway",
+    "author": "me",
+    "url_1080p": "rtsp://admin:Biolo43%21@192.168.86.28:554/Preview_01_main"
+  }
 ]
+
 
