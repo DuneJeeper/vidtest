@@ -1,6 +1,6 @@
 [
     {
-        "location": "Reoling",
+        "location": "Reolink",
         "title": "Driveway",
         "author": "me",
         "url_img": "http://url-to-image.jpg",
@@ -8,3 +8,4 @@
         "url_4k": "rtsp://admin:Biolo43!@192.168.86.28:554",
     },
 ]
+
