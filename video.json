@@ -1,9 +1,9 @@
-{
-  "videos": [
+[
     {
-      "url": "rtsp://admin:Biolo43!@192.168.86.28:554/Preview_01_main",
-      "type": "video"
+        "location": "Reolink",
+        "title": "Driveway",
+        "author": "Josh",
+        "url_1080p": "rtsp://admin:Biolo43!@192.168.86.28:554/"
     }
-  ]
+]
 
-}
